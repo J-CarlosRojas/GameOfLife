@@ -1,18 +1,18 @@
 body{
-    background-color: blue;
+    background-color: whitesmoke;
 }
 
 .table_Container{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 40rem;
-    width: 40rem;
+    height: 60rem;
+    width: 100%;
 }
 
 #grid{
-    width: 60%;
-    height: 60%;
+    width: 40rem;
+    height: 40rem;
 }
 
 table{
